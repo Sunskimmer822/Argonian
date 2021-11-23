@@ -25,3 +25,4 @@ Argonian argonia|n
 Argonia argonia
 Friend alaye
 Enemy nataye
+Cat Nya
