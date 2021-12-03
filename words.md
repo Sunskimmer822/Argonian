@@ -26,3 +26,29 @@ Argonia argonia
 Friend alaye
 Enemy nataye
 Cat Nya
+Dog Bar[x]ko
+Float Flos
+Water Suvaa
+Wood
+Raft
+Fly
+Beginning
+Survival
+Against
+land/place
+land (thing)
+Good morning
+Good day
+Good night
+Good evening
+bird
+enclave
+[enclave naming system:
+
+Read
+Paper
+Book
+Planet Gaia
+Fire Caji
+Ash Lacaji
+Compress Shitsupu
