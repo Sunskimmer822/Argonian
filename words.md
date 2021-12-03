@@ -1,4 +1,6 @@
 a "|" represents the end of a character when a vowel is to be held IE ra+ata = ra|ata instead of raata, which could be interpreted as either raa+ta or ra+ata
+|x| represents short roll
+|X| represents long roll 
 
 
 
