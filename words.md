@@ -54,3 +54,4 @@ Planet Gaia
 Fire Caji
 Ash Lacaji
 Compress Shitsupu
+Noted Ash
