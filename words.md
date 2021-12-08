@@ -55,3 +55,4 @@ Fire Caji
 Ash Lacaji
 Compress Shitsupu
 Noted Ash
+Stupid/dumb Atsae
